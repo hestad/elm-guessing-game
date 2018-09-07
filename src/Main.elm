@@ -2,45 +2,80 @@
 
 --main = Html.text (String.join ", " kommuner)
 
+import Browser
 import Html exposing (Html, Attribute, div, input, text, span, li, ul, node)
 import Html.Attributes exposing (..)
 import Html.Events exposing (onInput)
 import Set
+import Json.Decode as Decode
+import Url.Builder as Url
 
+-- -H 'Accept: application/json; charset=UTF-8
+-- kommuneUrl =
+  --Url.crossOrigin "http://data.ssb.no"
+    --["api","klass","v1","classifications", "104","corresponds"]
+    --[ Url.string "targetClassificationId" "131", Url.string "from" "2018-09-07"]
+
+
+-- CONSTS
 kommuner : List String
 kommuner = ["skien","porsgrunn","notodden","bamble","kragerø","nome","bø","tinn","sauherad","drangedal","vinje","seljord","kviteseid","siljan","tokke","hjartdal","nissedal","fyresdal"]
 
 kommuneSet : Set.Set String
 kommuneSet = Set.fromList kommuner
 
+
+
+-- MAIN
+
+
 main =
-  Html.beginnerProgram { model = model, view = view, update = update }
+  Browser.element
+    { init = init
+    , update = update
+    , subscriptions = subscriptions
+    , view = view
+    }
+
 
 
 -- MODEL
+
 
 type alias Model =
   { content : String,
     correct : List String
   }
 
-model : Model
-model =
-  { content = "",
-   correct = []}
+init : () -> (Model, Cmd Msg)
+init _ =
+  ( Model "" []
+  , Cmd.none
+  )
+
 
 
 -- UPDATE
 
+
 type Msg
   = Change String
 
-update : Msg -> Model -> Model
+update : Msg -> Model -> (Model, Cmd Msg)
 update msg model =
   case msg of
     Change newContent ->
       let (c, newCorrect) = if (Set.member newContent kommuneSet) then ("", newContent :: model.correct) else (newContent, model.correct)
-      in { model | content = c, correct = newCorrect }
+      in ({ model | content = c, correct = newCorrect }, Cmd.none)
+
+
+
+-- SUBSCRIPTIONS
+
+
+subscriptions : Model -> Sub Msg
+subscriptions model =
+  Sub.none
 
 
 
@@ -50,7 +85,7 @@ view : Model -> Html Msg
 view model =
     div []
     [
-        div [] [Html.text ("Korrekt: " ++ toString (List.length model.correct) ++ " / " ++ toString (Set.size kommuneSet))],
+        div [] [Html.text ("Korrekt: " ++ String.fromInt (List.length model.correct) ++ " / " ++ String.fromInt (Set.size kommuneSet))],
         span []
             [ input [ value model.content ,type_ "text", placeholder "Tast inn en kommune", onInput Change ] []
             , span [] [ Html.text (hint model.content) ]
