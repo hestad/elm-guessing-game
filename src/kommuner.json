@@ -1,0 +1,3790 @@
+[ {
+    "sourceCode" : "01",
+    "sourceName" : "Østfold",
+    "sourceShortName" : "",
+    "targetCode" : "0101",
+    "targetName" : "Halden",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "01",
+    "sourceName" : "Østfold",
+    "sourceShortName" : "",
+    "targetCode" : "0104",
+    "targetName" : "Moss",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "01",
+    "sourceName" : "Østfold",
+    "sourceShortName" : "",
+    "targetCode" : "0105",
+    "targetName" : "Sarpsborg",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "01",
+    "sourceName" : "Østfold",
+    "sourceShortName" : "",
+    "targetCode" : "0106",
+    "targetName" : "Fredrikstad",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "01",
+    "sourceName" : "Østfold",
+    "sourceShortName" : "",
+    "targetCode" : "0111",
+    "targetName" : "Hvaler",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "01",
+    "sourceName" : "Østfold",
+    "sourceShortName" : "",
+    "targetCode" : "0118",
+    "targetName" : "Aremark",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "01",
+    "sourceName" : "Østfold",
+    "sourceShortName" : "",
+    "targetCode" : "0119",
+    "targetName" : "Marker",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "01",
+    "sourceName" : "Østfold",
+    "sourceShortName" : "",
+    "targetCode" : "0121",
+    "targetName" : "Rømskog",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "01",
+    "sourceName" : "Østfold",
+    "sourceShortName" : "",
+    "targetCode" : "0122",
+    "targetName" : "Trøgstad",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "01",
+    "sourceName" : "Østfold",
+    "sourceShortName" : "",
+    "targetCode" : "0123",
+    "targetName" : "Spydeberg",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "01",
+    "sourceName" : "Østfold",
+    "sourceShortName" : "",
+    "targetCode" : "0124",
+    "targetName" : "Askim",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "01",
+    "sourceName" : "Østfold",
+    "sourceShortName" : "",
+    "targetCode" : "0125",
+    "targetName" : "Eidsberg",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "01",
+    "sourceName" : "Østfold",
+    "sourceShortName" : "",
+    "targetCode" : "0127",
+    "targetName" : "Skiptvet",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "01",
+    "sourceName" : "Østfold",
+    "sourceShortName" : "",
+    "targetCode" : "0128",
+    "targetName" : "Rakkestad",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "01",
+    "sourceName" : "Østfold",
+    "sourceShortName" : "",
+    "targetCode" : "0135",
+    "targetName" : "Råde",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "01",
+    "sourceName" : "Østfold",
+    "sourceShortName" : "",
+    "targetCode" : "0136",
+    "targetName" : "Rygge",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "01",
+    "sourceName" : "Østfold",
+    "sourceShortName" : "",
+    "targetCode" : "0137",
+    "targetName" : "Våler",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "01",
+    "sourceName" : "Østfold",
+    "sourceShortName" : "",
+    "targetCode" : "0138",
+    "targetName" : "Hobøl",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0211",
+    "targetName" : "Vestby",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0213",
+    "targetName" : "Ski",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0214",
+    "targetName" : "Ås",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0215",
+    "targetName" : "Frogn",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0216",
+    "targetName" : "Nesodden",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0217",
+    "targetName" : "Oppegård",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0219",
+    "targetName" : "Bærum",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0220",
+    "targetName" : "Asker",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0221",
+    "targetName" : "Aurskog-Høland",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0226",
+    "targetName" : "Sørum",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0227",
+    "targetName" : "Fet",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0228",
+    "targetName" : "Rælingen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0229",
+    "targetName" : "Enebakk",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0230",
+    "targetName" : "Lørenskog",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0231",
+    "targetName" : "Skedsmo",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0233",
+    "targetName" : "Nittedal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0234",
+    "targetName" : "Gjerdrum",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0235",
+    "targetName" : "Ullensaker",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0236",
+    "targetName" : "Nes",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0237",
+    "targetName" : "Eidsvoll",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0238",
+    "targetName" : "Nannestad",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "02",
+    "sourceName" : "Akershus",
+    "sourceShortName" : "",
+    "targetCode" : "0239",
+    "targetName" : "Hurdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "03",
+    "sourceName" : "Oslo",
+    "sourceShortName" : "",
+    "targetCode" : "0301",
+    "targetName" : "Oslo",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0402",
+    "targetName" : "Kongsvinger",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0403",
+    "targetName" : "Hamar",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0412",
+    "targetName" : "Ringsaker",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0415",
+    "targetName" : "Løten",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0417",
+    "targetName" : "Stange",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0418",
+    "targetName" : "Nord-Odal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0419",
+    "targetName" : "Sør-Odal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0420",
+    "targetName" : "Eidskog",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0423",
+    "targetName" : "Grue",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0425",
+    "targetName" : "Åsnes",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0426",
+    "targetName" : "Våler",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0427",
+    "targetName" : "Elverum",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0428",
+    "targetName" : "Trysil",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0429",
+    "targetName" : "Åmot",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0430",
+    "targetName" : "Stor-Elvdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0432",
+    "targetName" : "Rendalen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0434",
+    "targetName" : "Engerdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0436",
+    "targetName" : "Tolga",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0437",
+    "targetName" : "Tynset",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0438",
+    "targetName" : "Alvdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0439",
+    "targetName" : "Folldal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "04",
+    "sourceName" : "Hedmark",
+    "sourceShortName" : "",
+    "targetCode" : "0441",
+    "targetName" : "Os",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0501",
+    "targetName" : "Lillehammer",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0502",
+    "targetName" : "Gjøvik",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0511",
+    "targetName" : "Dovre",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0512",
+    "targetName" : "Lesja",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0513",
+    "targetName" : "Skjåk",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0514",
+    "targetName" : "Lom",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0515",
+    "targetName" : "Vågå",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0516",
+    "targetName" : "Nord-Fron",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0517",
+    "targetName" : "Sel",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0519",
+    "targetName" : "Sør-Fron",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0520",
+    "targetName" : "Ringebu",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0521",
+    "targetName" : "Øyer",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0522",
+    "targetName" : "Gausdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0528",
+    "targetName" : "Østre Toten",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0529",
+    "targetName" : "Vestre Toten",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0532",
+    "targetName" : "Jevnaker",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0533",
+    "targetName" : "Lunner",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0534",
+    "targetName" : "Gran",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0536",
+    "targetName" : "Søndre Land",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0538",
+    "targetName" : "Nordre Land",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0540",
+    "targetName" : "Sør-Aurdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0541",
+    "targetName" : "Etnedal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0542",
+    "targetName" : "Nord-Aurdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0543",
+    "targetName" : "Vestre Slidre",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0544",
+    "targetName" : "Øystre Slidre",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "05",
+    "sourceName" : "Oppland",
+    "sourceShortName" : "",
+    "targetCode" : "0545",
+    "targetName" : "Vang",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0602",
+    "targetName" : "Drammen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0604",
+    "targetName" : "Kongsberg",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0605",
+    "targetName" : "Ringerike",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0612",
+    "targetName" : "Hole",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0615",
+    "targetName" : "Flå",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0616",
+    "targetName" : "Nes",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0617",
+    "targetName" : "Gol",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0618",
+    "targetName" : "Hemsedal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0619",
+    "targetName" : "Ål",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0620",
+    "targetName" : "Hol",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0621",
+    "targetName" : "Sigdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0622",
+    "targetName" : "Krødsherad",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0623",
+    "targetName" : "Modum",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0624",
+    "targetName" : "Øvre Eiker",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0625",
+    "targetName" : "Nedre Eiker",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0626",
+    "targetName" : "Lier",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0627",
+    "targetName" : "Røyken",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0628",
+    "targetName" : "Hurum",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0631",
+    "targetName" : "Flesberg",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0632",
+    "targetName" : "Rollag",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "06",
+    "sourceName" : "Buskerud",
+    "sourceShortName" : "",
+    "targetCode" : "0633",
+    "targetName" : "Nore og Uvdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "07",
+    "sourceName" : "Vestfold",
+    "sourceShortName" : "",
+    "targetCode" : "0701",
+    "targetName" : "Horten",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "07",
+    "sourceName" : "Vestfold",
+    "sourceShortName" : "",
+    "targetCode" : "0704",
+    "targetName" : "Tønsberg",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "07",
+    "sourceName" : "Vestfold",
+    "sourceShortName" : "",
+    "targetCode" : "0710",
+    "targetName" : "Sandefjord",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "07",
+    "sourceName" : "Vestfold",
+    "sourceShortName" : "",
+    "targetCode" : "0711",
+    "targetName" : "Svelvik",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "07",
+    "sourceName" : "Vestfold",
+    "sourceShortName" : "",
+    "targetCode" : "0712",
+    "targetName" : "Larvik",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "07",
+    "sourceName" : "Vestfold",
+    "sourceShortName" : "",
+    "targetCode" : "0713",
+    "targetName" : "Sande",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "07",
+    "sourceName" : "Vestfold",
+    "sourceShortName" : "",
+    "targetCode" : "0715",
+    "targetName" : "Holmestrand",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "07",
+    "sourceName" : "Vestfold",
+    "sourceShortName" : "",
+    "targetCode" : "0716",
+    "targetName" : "Re",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "07",
+    "sourceName" : "Vestfold",
+    "sourceShortName" : "",
+    "targetCode" : "0729",
+    "targetName" : "Færder",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "08",
+    "sourceName" : "Telemark",
+    "sourceShortName" : "",
+    "targetCode" : "0805",
+    "targetName" : "Porsgrunn",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "08",
+    "sourceName" : "Telemark",
+    "sourceShortName" : "",
+    "targetCode" : "0806",
+    "targetName" : "Skien",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "08",
+    "sourceName" : "Telemark",
+    "sourceShortName" : "",
+    "targetCode" : "0807",
+    "targetName" : "Notodden",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "08",
+    "sourceName" : "Telemark",
+    "sourceShortName" : "",
+    "targetCode" : "0811",
+    "targetName" : "Siljan",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "08",
+    "sourceName" : "Telemark",
+    "sourceShortName" : "",
+    "targetCode" : "0814",
+    "targetName" : "Bamble",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "08",
+    "sourceName" : "Telemark",
+    "sourceShortName" : "",
+    "targetCode" : "0815",
+    "targetName" : "Kragerø",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "08",
+    "sourceName" : "Telemark",
+    "sourceShortName" : "",
+    "targetCode" : "0817",
+    "targetName" : "Drangedal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "08",
+    "sourceName" : "Telemark",
+    "sourceShortName" : "",
+    "targetCode" : "0819",
+    "targetName" : "Nome",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "08",
+    "sourceName" : "Telemark",
+    "sourceShortName" : "",
+    "targetCode" : "0821",
+    "targetName" : "Bø",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "08",
+    "sourceName" : "Telemark",
+    "sourceShortName" : "",
+    "targetCode" : "0822",
+    "targetName" : "Sauherad",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "08",
+    "sourceName" : "Telemark",
+    "sourceShortName" : "",
+    "targetCode" : "0826",
+    "targetName" : "Tinn",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "08",
+    "sourceName" : "Telemark",
+    "sourceShortName" : "",
+    "targetCode" : "0827",
+    "targetName" : "Hjartdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "08",
+    "sourceName" : "Telemark",
+    "sourceShortName" : "",
+    "targetCode" : "0828",
+    "targetName" : "Seljord",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "08",
+    "sourceName" : "Telemark",
+    "sourceShortName" : "",
+    "targetCode" : "0829",
+    "targetName" : "Kviteseid",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "08",
+    "sourceName" : "Telemark",
+    "sourceShortName" : "",
+    "targetCode" : "0830",
+    "targetName" : "Nissedal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "08",
+    "sourceName" : "Telemark",
+    "sourceShortName" : "",
+    "targetCode" : "0831",
+    "targetName" : "Fyresdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "08",
+    "sourceName" : "Telemark",
+    "sourceShortName" : "",
+    "targetCode" : "0833",
+    "targetName" : "Tokke",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "08",
+    "sourceName" : "Telemark",
+    "sourceShortName" : "",
+    "targetCode" : "0834",
+    "targetName" : "Vinje",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "09",
+    "sourceName" : "Aust-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "0901",
+    "targetName" : "Risør",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "09",
+    "sourceName" : "Aust-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "0904",
+    "targetName" : "Grimstad",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "09",
+    "sourceName" : "Aust-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "0906",
+    "targetName" : "Arendal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "09",
+    "sourceName" : "Aust-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "0911",
+    "targetName" : "Gjerstad",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "09",
+    "sourceName" : "Aust-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "0912",
+    "targetName" : "Vegårshei",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "09",
+    "sourceName" : "Aust-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "0914",
+    "targetName" : "Tvedestrand",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "09",
+    "sourceName" : "Aust-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "0919",
+    "targetName" : "Froland",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "09",
+    "sourceName" : "Aust-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "0926",
+    "targetName" : "Lillesand",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "09",
+    "sourceName" : "Aust-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "0928",
+    "targetName" : "Birkenes",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "09",
+    "sourceName" : "Aust-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "0929",
+    "targetName" : "Åmli",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "09",
+    "sourceName" : "Aust-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "0935",
+    "targetName" : "Iveland",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "09",
+    "sourceName" : "Aust-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "0937",
+    "targetName" : "Evje og Hornnes",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "09",
+    "sourceName" : "Aust-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "0938",
+    "targetName" : "Bygland",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "09",
+    "sourceName" : "Aust-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "0940",
+    "targetName" : "Valle",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "09",
+    "sourceName" : "Aust-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "0941",
+    "targetName" : "Bykle",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "10",
+    "sourceName" : "Vest-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "1001",
+    "targetName" : "Kristiansand",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "10",
+    "sourceName" : "Vest-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "1002",
+    "targetName" : "Mandal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "10",
+    "sourceName" : "Vest-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "1003",
+    "targetName" : "Farsund",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "10",
+    "sourceName" : "Vest-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "1004",
+    "targetName" : "Flekkefjord",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "10",
+    "sourceName" : "Vest-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "1014",
+    "targetName" : "Vennesla",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "10",
+    "sourceName" : "Vest-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "1017",
+    "targetName" : "Songdalen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "10",
+    "sourceName" : "Vest-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "1018",
+    "targetName" : "Søgne",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "10",
+    "sourceName" : "Vest-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "1021",
+    "targetName" : "Marnardal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "10",
+    "sourceName" : "Vest-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "1026",
+    "targetName" : "Åseral",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "10",
+    "sourceName" : "Vest-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "1027",
+    "targetName" : "Audnedal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "10",
+    "sourceName" : "Vest-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "1029",
+    "targetName" : "Lindesnes",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "10",
+    "sourceName" : "Vest-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "1032",
+    "targetName" : "Lyngdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "10",
+    "sourceName" : "Vest-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "1034",
+    "targetName" : "Hægebostad",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "10",
+    "sourceName" : "Vest-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "1037",
+    "targetName" : "Kvinesdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "10",
+    "sourceName" : "Vest-Agder",
+    "sourceShortName" : "",
+    "targetCode" : "1046",
+    "targetName" : "Sirdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1101",
+    "targetName" : "Eigersund",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1102",
+    "targetName" : "Sandnes",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1103",
+    "targetName" : "Stavanger",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1106",
+    "targetName" : "Haugesund",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1111",
+    "targetName" : "Sokndal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1112",
+    "targetName" : "Lund",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1114",
+    "targetName" : "Bjerkreim",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1119",
+    "targetName" : "Hå",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1120",
+    "targetName" : "Klepp",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1121",
+    "targetName" : "Time",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1122",
+    "targetName" : "Gjesdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1124",
+    "targetName" : "Sola",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1127",
+    "targetName" : "Randaberg",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1129",
+    "targetName" : "Forsand",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1130",
+    "targetName" : "Strand",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1133",
+    "targetName" : "Hjelmeland",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1134",
+    "targetName" : "Suldal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1135",
+    "targetName" : "Sauda",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1141",
+    "targetName" : "Finnøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1142",
+    "targetName" : "Rennesøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1144",
+    "targetName" : "Kvitsøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1145",
+    "targetName" : "Bokn",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1146",
+    "targetName" : "Tysvær",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1149",
+    "targetName" : "Karmøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1151",
+    "targetName" : "Utsira",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "11",
+    "sourceName" : "Rogaland",
+    "sourceShortName" : "",
+    "targetCode" : "1160",
+    "targetName" : "Vindafjord",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1201",
+    "targetName" : "Bergen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1211",
+    "targetName" : "Etne",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1216",
+    "targetName" : "Sveio",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1219",
+    "targetName" : "Bømlo",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1221",
+    "targetName" : "Stord",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1222",
+    "targetName" : "Fitjar",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1223",
+    "targetName" : "Tysnes",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1224",
+    "targetName" : "Kvinnherad",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1227",
+    "targetName" : "Jondal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1228",
+    "targetName" : "Odda",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1231",
+    "targetName" : "Ullensvang",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1232",
+    "targetName" : "Eidfjord",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1233",
+    "targetName" : "Ulvik",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1234",
+    "targetName" : "Granvin",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1235",
+    "targetName" : "Voss",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1238",
+    "targetName" : "Kvam",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1241",
+    "targetName" : "Fusa",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1242",
+    "targetName" : "Samnanger",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1243",
+    "targetName" : "Os",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1244",
+    "targetName" : "Austevoll",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1245",
+    "targetName" : "Sund",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1246",
+    "targetName" : "Fjell",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1247",
+    "targetName" : "Askøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1251",
+    "targetName" : "Vaksdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1252",
+    "targetName" : "Modalen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1253",
+    "targetName" : "Osterøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1256",
+    "targetName" : "Meland",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1259",
+    "targetName" : "Øygarden",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1260",
+    "targetName" : "Radøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1263",
+    "targetName" : "Lindås",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1264",
+    "targetName" : "Austrheim",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1265",
+    "targetName" : "Fedje",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "12",
+    "sourceName" : "Hordaland",
+    "sourceShortName" : "",
+    "targetCode" : "1266",
+    "targetName" : "Masfjorden",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1401",
+    "targetName" : "Flora",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1411",
+    "targetName" : "Gulen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1412",
+    "targetName" : "Solund",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1413",
+    "targetName" : "Hyllestad",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1416",
+    "targetName" : "Høyanger",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1417",
+    "targetName" : "Vik",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1418",
+    "targetName" : "Balestrand",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1419",
+    "targetName" : "Leikanger",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1420",
+    "targetName" : "Sogndal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1421",
+    "targetName" : "Aurland",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1422",
+    "targetName" : "Lærdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1424",
+    "targetName" : "Årdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1426",
+    "targetName" : "Luster",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1428",
+    "targetName" : "Askvoll",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1429",
+    "targetName" : "Fjaler",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1430",
+    "targetName" : "Gaular",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1431",
+    "targetName" : "Jølster",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1432",
+    "targetName" : "Førde",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1433",
+    "targetName" : "Naustdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1438",
+    "targetName" : "Bremanger",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1439",
+    "targetName" : "Vågsøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1441",
+    "targetName" : "Selje",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1443",
+    "targetName" : "Eid",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1444",
+    "targetName" : "Hornindal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1445",
+    "targetName" : "Gloppen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "14",
+    "sourceName" : "Sogn og Fjordane",
+    "sourceShortName" : "",
+    "targetCode" : "1449",
+    "targetName" : "Stryn",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1502",
+    "targetName" : "Molde",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1504",
+    "targetName" : "Ålesund",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1505",
+    "targetName" : "Kristiansund",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1511",
+    "targetName" : "Vanylven",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1514",
+    "targetName" : "Sande",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1516",
+    "targetName" : "Ulstein",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1517",
+    "targetName" : "Hareid",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1519",
+    "targetName" : "Volda",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1520",
+    "targetName" : "Ørsta",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1523",
+    "targetName" : "Ørskog",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1524",
+    "targetName" : "Norddal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1525",
+    "targetName" : "Stranda",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1526",
+    "targetName" : "Stordal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1528",
+    "targetName" : "Sykkylven",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1529",
+    "targetName" : "Skodje",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1531",
+    "targetName" : "Sula",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1532",
+    "targetName" : "Giske",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1534",
+    "targetName" : "Haram",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1535",
+    "targetName" : "Vestnes",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1539",
+    "targetName" : "Rauma",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1543",
+    "targetName" : "Nesset",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1545",
+    "targetName" : "Midsund",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1546",
+    "targetName" : "Sandøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1547",
+    "targetName" : "Aukra",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1548",
+    "targetName" : "Fræna",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1551",
+    "targetName" : "Eide",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1554",
+    "targetName" : "Averøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1557",
+    "targetName" : "Gjemnes",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1560",
+    "targetName" : "Tingvoll",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1563",
+    "targetName" : "Sunndal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1566",
+    "targetName" : "Surnadal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1567",
+    "targetName" : "Rindal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1571",
+    "targetName" : "Halsa",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1573",
+    "targetName" : "Smøla",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "15",
+    "sourceName" : "Møre og Romsdal",
+    "sourceShortName" : "",
+    "targetCode" : "1576",
+    "targetName" : "Aure",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1804",
+    "targetName" : "Bodø",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1805",
+    "targetName" : "Narvik",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1811",
+    "targetName" : "Bindal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1812",
+    "targetName" : "Sømna",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1813",
+    "targetName" : "Brønnøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1815",
+    "targetName" : "Vega",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1816",
+    "targetName" : "Vevelstad",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1818",
+    "targetName" : "Herøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1820",
+    "targetName" : "Alstahaug",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1822",
+    "targetName" : "Leirfjord",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1824",
+    "targetName" : "Vefsn",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1825",
+    "targetName" : "Grane",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1826",
+    "targetName" : "Hattfjelldal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1827",
+    "targetName" : "Dønna",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1828",
+    "targetName" : "Nesna",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1832",
+    "targetName" : "Hemnes",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1833",
+    "targetName" : "Rana",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1834",
+    "targetName" : "Lurøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1835",
+    "targetName" : "Træna",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1836",
+    "targetName" : "Rødøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1837",
+    "targetName" : "Meløy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1838",
+    "targetName" : "Gildeskål",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1839",
+    "targetName" : "Beiarn",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1840",
+    "targetName" : "Saltdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1841",
+    "targetName" : "Fauske - Fuosko",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1845",
+    "targetName" : "Sørfold",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1848",
+    "targetName" : "Steigen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1849",
+    "targetName" : "Hamarøy - Hábmer",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1850",
+    "targetName" : "Divtasvuodna - Tysfjord",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1851",
+    "targetName" : "Lødingen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1852",
+    "targetName" : "Tjeldsund",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1853",
+    "targetName" : "Evenes",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1854",
+    "targetName" : "Ballangen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1856",
+    "targetName" : "Røst",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1857",
+    "targetName" : "Værøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1859",
+    "targetName" : "Flakstad",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1860",
+    "targetName" : "Vestvågøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1865",
+    "targetName" : "Vågan",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1866",
+    "targetName" : "Hadsel",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1867",
+    "targetName" : "Bø",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1868",
+    "targetName" : "Øksnes",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1870",
+    "targetName" : "Sortland - Suortá",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1871",
+    "targetName" : "Andøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "18",
+    "sourceName" : "Nordland",
+    "sourceShortName" : "",
+    "targetCode" : "1874",
+    "targetName" : "Moskenes",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1902",
+    "targetName" : "Tromsø",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1903",
+    "targetName" : "Harstad - Hárstták",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1911",
+    "targetName" : "Kvæfjord",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1913",
+    "targetName" : "Skånland",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1917",
+    "targetName" : "Ibestad",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1919",
+    "targetName" : "Gratangen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1920",
+    "targetName" : "Loabák - Lavangen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1922",
+    "targetName" : "Bardu",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1923",
+    "targetName" : "Salangen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1924",
+    "targetName" : "Målselv",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1925",
+    "targetName" : "Sørreisa",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1926",
+    "targetName" : "Dyrøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1927",
+    "targetName" : "Tranøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1928",
+    "targetName" : "Torsken",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1929",
+    "targetName" : "Berg",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1931",
+    "targetName" : "Lenvik",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1933",
+    "targetName" : "Balsfjord",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1936",
+    "targetName" : "Karlsøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1938",
+    "targetName" : "Lyngen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1939",
+    "targetName" : "Storfjord - Omasvuotna - Omasvuono",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1940",
+    "targetName" : "Gáivuotna - Kåfjord - Kaivuono",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1941",
+    "targetName" : "Skjervøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1942",
+    "targetName" : "Nordreisa",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "19",
+    "sourceName" : "Troms Romsa",
+    "sourceShortName" : "",
+    "targetCode" : "1943",
+    "targetName" : "Kvænangen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "20",
+    "sourceName" : "Finnmark Finnmárku",
+    "sourceShortName" : "",
+    "targetCode" : "2002",
+    "targetName" : "Vardø",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "20",
+    "sourceName" : "Finnmark Finnmárku",
+    "sourceShortName" : "",
+    "targetCode" : "2003",
+    "targetName" : "Vadsø",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "20",
+    "sourceName" : "Finnmark Finnmárku",
+    "sourceShortName" : "",
+    "targetCode" : "2004",
+    "targetName" : "Hammerfest",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "20",
+    "sourceName" : "Finnmark Finnmárku",
+    "sourceShortName" : "",
+    "targetCode" : "2011",
+    "targetName" : "Guovdageaidnu - Kautokeino",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "20",
+    "sourceName" : "Finnmark Finnmárku",
+    "sourceShortName" : "",
+    "targetCode" : "2012",
+    "targetName" : "Alta",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "20",
+    "sourceName" : "Finnmark Finnmárku",
+    "sourceShortName" : "",
+    "targetCode" : "2015",
+    "targetName" : "Hasvik",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "20",
+    "sourceName" : "Finnmark Finnmárku",
+    "sourceShortName" : "",
+    "targetCode" : "2017",
+    "targetName" : "Kvalsund",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "20",
+    "sourceName" : "Finnmark Finnmárku",
+    "sourceShortName" : "",
+    "targetCode" : "2018",
+    "targetName" : "Måsøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "20",
+    "sourceName" : "Finnmark Finnmárku",
+    "sourceShortName" : "",
+    "targetCode" : "2019",
+    "targetName" : "Nordkapp",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "20",
+    "sourceName" : "Finnmark Finnmárku",
+    "sourceShortName" : "",
+    "targetCode" : "2020",
+    "targetName" : "Porsanger - Porsángu - Porsanki",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "20",
+    "sourceName" : "Finnmark Finnmárku",
+    "sourceShortName" : "",
+    "targetCode" : "2021",
+    "targetName" : "Kárášjohka - Karasjok",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "20",
+    "sourceName" : "Finnmark Finnmárku",
+    "sourceShortName" : "",
+    "targetCode" : "2022",
+    "targetName" : "Lebesby",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "20",
+    "sourceName" : "Finnmark Finnmárku",
+    "sourceShortName" : "",
+    "targetCode" : "2023",
+    "targetName" : "Gamvik",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "20",
+    "sourceName" : "Finnmark Finnmárku",
+    "sourceShortName" : "",
+    "targetCode" : "2024",
+    "targetName" : "Berlevåg",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "20",
+    "sourceName" : "Finnmark Finnmárku",
+    "sourceShortName" : "",
+    "targetCode" : "2025",
+    "targetName" : "Deatnu - Tana",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "20",
+    "sourceName" : "Finnmark Finnmárku",
+    "sourceShortName" : "",
+    "targetCode" : "2027",
+    "targetName" : "Unjárga - Nesseby",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "20",
+    "sourceName" : "Finnmark Finnmárku",
+    "sourceShortName" : "",
+    "targetCode" : "2028",
+    "targetName" : "Båtsfjord",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "20",
+    "sourceName" : "Finnmark Finnmárku",
+    "sourceShortName" : "",
+    "targetCode" : "2030",
+    "targetName" : "Sør-Varanger",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5001",
+    "targetName" : "Trondheim",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5004",
+    "targetName" : "Steinkjer",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5005",
+    "targetName" : "Namsos",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5011",
+    "targetName" : "Hemne",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5012",
+    "targetName" : "Snillfjord",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5013",
+    "targetName" : "Hitra",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5014",
+    "targetName" : "Frøya",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5015",
+    "targetName" : "Ørland",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5016",
+    "targetName" : "Agdenes",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5017",
+    "targetName" : "Bjugn",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5018",
+    "targetName" : "Åfjord",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5019",
+    "targetName" : "Roan",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5020",
+    "targetName" : "Osen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5021",
+    "targetName" : "Oppdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5022",
+    "targetName" : "Rennebu",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5023",
+    "targetName" : "Meldal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5024",
+    "targetName" : "Orkdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5025",
+    "targetName" : "Røros",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5026",
+    "targetName" : "Holtålen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5027",
+    "targetName" : "Midtre Gauldal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5028",
+    "targetName" : "Melhus",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5029",
+    "targetName" : "Skaun",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5030",
+    "targetName" : "Klæbu",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5031",
+    "targetName" : "Malvik",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5032",
+    "targetName" : "Selbu",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5033",
+    "targetName" : "Tydal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5034",
+    "targetName" : "Meråker",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5035",
+    "targetName" : "Stjørdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5036",
+    "targetName" : "Frosta",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5037",
+    "targetName" : "Levanger",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5038",
+    "targetName" : "Verdal",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5039",
+    "targetName" : "Verran",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5040",
+    "targetName" : "Namdalseid",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5041",
+    "targetName" : "Snåase - Snåsa",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5042",
+    "targetName" : "Lierne",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5043",
+    "targetName" : "Raarvihke - Røyrvik",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5044",
+    "targetName" : "Namsskogan",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5045",
+    "targetName" : "Grong",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5046",
+    "targetName" : "Høylandet",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5047",
+    "targetName" : "Overhalla",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5048",
+    "targetName" : "Fosnes",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5049",
+    "targetName" : "Flatanger",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5050",
+    "targetName" : "Vikna",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5051",
+    "targetName" : "Nærøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5052",
+    "targetName" : "Leka",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5053",
+    "targetName" : "Inderøy",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "5054",
+    "targetName" : "Indre Fosen",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  }, {
+    "sourceCode" : "50",
+    "sourceName" : "Trøndelag",
+    "sourceShortName" : "",
+    "targetCode" : "9999",
+    "targetName" : "Uoppgitt",
+    "targetShortName" : "",
+    "validFrom" : "2018-08-09",
+    "validTo" : null
+  } ]

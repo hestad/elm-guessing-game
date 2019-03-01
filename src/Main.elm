@@ -1,36 +1,12 @@
---import Html
---main = Html.text (String.join ", " kommuner)
-
-
-module Main exposing (Model, Msg(..), hint, init, kommuneSet, kommuner, main, renderList, subscriptions, update, view)
+-- module Main exposing (Model, Msg(..), hint, init, kommuneSet, kommuner, main, renderList, subscriptions, update, view)
 
 import Browser
-import Html exposing (Attribute, Html, div, input, li, node, span, text, ul)
+import Html exposing (..)
 import Html.Attributes exposing (..)
-import Html.Events exposing (onInput)
-import Json.Decode as Decode
+import Html.Events exposing (..)
 import Set
-import Url.Builder as Url
-
-
-
--- -H 'Accept: application/json; charset=UTF-8
--- kommuneUrl =
---Url.crossOrigin "http://data.ssb.no"
---["api","klass","v1","classifications", "104","corresponds"]
---[ Url.string "targetClassificationId" "131", Url.string "from" "2018-09-07"]
--- CONSTS
-
-
-kommuner : List String
-kommuner =
-    [ "skien", "porsgrunn", "notodden", "bamble", "kragerø", "nome", "bø", "tinn", "sauherad", "drangedal", "vinje", "seljord", "kviteseid", "siljan", "tokke", "hjartdal", "nissedal", "fyresdal" ]
-
-
-kommuneSet : Set.Set String
-kommuneSet =
-    Set.fromList kommuner
-
+import Http
+import Json.Decode exposing (Decoder, field, int, string, list, map2)
 
 
 -- MAIN
@@ -49,16 +25,22 @@ main =
 -- MODEL
 
 
+type alias Kommune =
+    { name: String,
+      code: String
+    }
+
 type alias Model =
-    { content : String
-    , correct : List String
+    { guessInputContent : String
+    , correct : List Kommune
+    , kommuner: List Kommune
     }
 
 
 init : () -> ( Model, Cmd Msg )
 init _ =
-    ( Model "" []
-    , Cmd.none
+    ( Model "" [] []
+    , getKommuner
     )
 
 
@@ -67,22 +49,26 @@ init _ =
 
 
 type Msg
-    = Change String
+    = Guess String |
+      GotKommuner (Result Http.Error (List Kommune))
 
 
 update : Msg -> Model -> ( Model, Cmd Msg )
 update msg model =
     case msg of
-        Change newContent ->
+        Guess inputGuess ->
             let
-                ( c, newCorrect ) =
-                    if Set.member newContent kommuneSet then
-                        ( "", newContent :: model.correct )
-
-                    else
-                        ( newContent, model.correct )
+                ( newGuess, newCorrect ) =
+                    case tryGetKommune model.kommuner inputGuess of
+                            Just kommune -> ( "", kommune :: model.correct )
+                            Nothing -> ( inputGuess, model.correct )
             in
-            ( { model | content = c, correct = newCorrect }, Cmd.none )
+            ( { model | guessInputContent = newGuess, correct = newCorrect }, Cmd.none )
+        GotKommuner response ->
+            case response of
+                Err error -> Debug.todo (Debug.toString error)
+                Ok newKommuner ->  ( { model | kommuner=newKommuner}, Cmd.none )
+
 
 
 
@@ -101,37 +87,43 @@ subscriptions model =
 view : Model -> Html Msg
 view model =
     div []
-        [ div [] [ Html.text ("Korrekt: " ++ String.fromInt (List.length model.correct) ++ " / " ++ String.fromInt (Set.size kommuneSet)) ]
+        [ div [] [ Html.text ("Korrekt: " ++ String.fromInt (List.length model.correct) ++ " / " ++ String.fromInt (List.length model.kommuner)) ]
         , span []
-            [ input [ value model.content, type_ "text", placeholder "Tast inn en kommune", onInput Change ] []
-            , span [] [ Html.text (hint model.content) ]
+            [ input [ value model.guessInputContent, type_ "text", placeholder "Tast inn en kommune", onInput Guess ] []
+            , span [] [ Html.text (hint model.kommuner model.guessInputContent) ]
             ]
         , div [] [ renderList model.correct ]
         ]
 
 
 
---renderList : List String -> Html Msg
-
-
 renderList lst =
     lst
-        |> List.map (\l -> Html.li [] [ Html.text l ])
+        |> List.map (\l -> Html.li [] [ Html.text l.name ])
         |> Html.ul []
 
+
+tryGetKommune : (List Kommune) -> String -> Maybe Kommune
+tryGetKommune kommuner input =
+    kommuner
+        |> List.filter
+            (\n -> String.contains (String.toLower n.name) (String.toLower input))
+        |> List.head
 
 
 -- TODO: What if input matches multiple communes
 
 
-hint : String -> String
-hint input =
+hint : (List Kommune) -> String -> String
+hint kommuner input =
     case input of
         "" ->
             ""
 
         _ ->
             kommuner
+                |> List.map
+                    (\n -> n.name)
                 |> List.filter
                     (\n -> String.startsWith (String.toLower input) (String.toLower n))
                 |> List.head
@@ -145,3 +137,25 @@ hint input =
                     (\n -> input ++ n)
                 |> Maybe.withDefault
                     "Ukjent"
+
+-- HTTP
+
+
+getKommuner : Cmd Msg
+getKommuner =
+    Http.get
+    {url = "kommuner.json"
+    , expect = Http.expectJson GotKommuner kommunerDecoder
+    }
+
+
+
+kommuneDecoder : Decoder Kommune
+kommuneDecoder =
+  map2 Kommune
+      (field "targetName" string)
+      (field "targetCode" string)
+
+kommunerDecoder : Decoder (List Kommune)
+kommunerDecoder =
+    list kommuneDecoder
