@@ -1,7 +1,7 @@
 -- module Main exposing (Model, Msg(..), hint, init, kommuneSet, kommuner, main, renderList, subscriptions, update, view)
 
 
-module Main exposing (Kommune, Model, Msg(..), createHint, createResponse, getKommuner, init, kommuneDecoder, kommunerDecoder, main, renderList, subscriptions, tryGetKommune, update, view)
+module Main exposing (Kommune, Model, Msg(..), createHint, createResponse, getKommuner, init, kommuneDecoder, kommunerDecoder, main, renderList, subscriptions, update, view)
 
 import Browser
 import Html exposing (..)
@@ -41,6 +41,7 @@ type alias Model =
     , kommuner : List Kommune
     }
 
+type NonEmptyList a = NonEmpty a (List a)
 
 init : () -> ( Model, Cmd Msg )
 init _ =
@@ -64,7 +65,7 @@ update msg model =
         Guess inputGuess ->
             let
                 ( newGuess, newCorrect ) =
-                    case tryGetKommune model.kommuner inputGuess of
+                    case (evaluate model.kommuner model.correct inputGuess) of
                         Just kommune ->
                             ( "", kommune :: model.correct )
 
@@ -82,6 +83,13 @@ update msg model =
                     ( { model | kommuner = newKommuner }, Cmd.none )
 
 
+toLower: {a | name : String} -> {a | name : String}
+toLower r =
+    {r | name = String.toLower r.name}
+
+listToLower: List {a | name : String} -> List {a | name : String}
+listToLower r =
+    List.map toLower r
 
 -- SUBSCRIPTIONS
 
@@ -113,23 +121,61 @@ renderList lst =
         |> Html.ul []
 
 
-tryGetKommune : List Kommune -> String -> Maybe Kommune
-tryGetKommune kommuner input =
-    kommuner
-        |> List.filter
-            (\n -> String.startsWith (String.toLower n.name) (String.toLower input))
-        |> List.head
+type GuessEvaluation =
+    Correct Kommune | Empty | Unknown | Partial (NonEmptyList Kommune) | AlreadyGuessed
+
+evaluate : List Kommune -> List Kommune -> String -> GuessEvaluation
+evaluate answers correct guessParameter =
+    case input of
+            "" ->
+                Empty
+
+            _ ->
+                let
+                    guess =
+                        String.toLower guessParameter
+
+                    a =
+                        listToLower answers
+
+                    c =
+                        listToLower correct
+
+                    partialMatches =
+                        a
+                            |> List.filter
+                                (\n -> String.startsWith guess n.name)
+                in
+                case partialMatches of
+                    [] ->
+                        Unknown
+                    [_] ->
+                        let
+                            unanswered = List.filter (\n -> List.member n c) partialMatches
+                        in
+                            case unanswered of
+                                [] ->
+                                    AlreadyGuessed
+                                first::rest ->
+                                    let
+                                        correctAnswers = List.filter (\n -> n.name == input) partialMatches
+                                    in
+                                        case correctAnswers of
+                                            [] -> Partial first rest
+                                            [b] -> Kommune b
 
 
 
 -- We just give hint on the first matched string in the list
 
 
-createResponse : List Kommune -> List Kommune -> String -> String
-createResponse kommuner correct input =
+createResponse : GuessEvaluation -> String
+createResponse eval =
     case input of
-        "" ->
+        Empty ->
             ""
+        Partial p ->
+            p.name
 
         _ ->
             let
@@ -145,7 +191,7 @@ createResponse kommuner correct input =
                 partialMatch =
                     k
                         |> List.filter
-                            (\n -> String.startsWith i n)
+                            (String.startsWith i)
                         |> List.head
             in
             case partialMatch of
@@ -154,7 +200,7 @@ createResponse kommuner correct input =
 
                 Just s ->
                     if s == i then
-                        s
+                        ""
 
                     else if List.member s c then
                         "You already guessed this!"
@@ -165,15 +211,11 @@ createResponse kommuner correct input =
 
 createHint : String -> String -> String
 createHint partialMatch input =
-    String.length partialMatch
-        |> (\n ->
-                n
-                    - String.length input
-                    |> (\m ->
-                            String.repeat m "?"
-                                |> (\o -> input ++ o)
-                       )
-           )
+        String.length partialMatch - String.length input
+            |> (\m ->
+                    String.repeat m "?"
+                        |> (\o -> input ++ o)
+               )
 
 
 
